@@ -1,4 +1,4 @@
-NokiaWatchMarkI
+Projects
 ===============
 
-Open Source nokia 5110/3310 arduino smart watch 
+These are some usefull scripts or programs that i wrote for the betterment of mankind.
